@@ -1,0 +1,20 @@
+body {
+	background-image:url("fon.jpg");		 
+}
+
+r,h1,h2{
+	 text-shadow:#F0E68C 1px 1px 0, #F0E68C -1px -1px 0, 
+                 #F0E68C -1px 1px 0, #F0E68C 1px -1px 0;			 
+}
+td,tr,img{
+	border: solid #F0E68C 5px;	
+}
+ul{
+	padding-right:30px;
+}
+table{
+	background-image:url("fontab.jpg");
+} 
+r{
+	font-weight:bold;
+}
